@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1b2a,55:1b2838,85:16213e,100:0f3460&height=220&section=header&text=Darsan%20I%20S&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🤖%20Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Agentic%20AI%20Builder&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0a0f,60:0d0d1a,100:000000&height=200&section=header&text=DARSAN%20I%20S&fontSize=72&fontColor=00ff88&animation=blinking&fontAlignY=55&desc=◈%20DATA%20SCIENTIST%20◈%20AI%20ENGINEER%20◈%20AGENTIC%20AI%20BUILDER%20◈&descAlignY=78&descSize=13&fontStyle=bold" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=38BDAE&center=true&vCenter=true&multiline=false&width=780&lines=🧠+Data+Scientist+%7C+AI+%7C+Agentic+AI+Engineer;🤖+Building+Intelligent+Systems+that+Think+%26+Act;🚀+4+Production+Apps+deployed+for+100%2B+Real+Users;⚡+LLMs+%7C+RAG+%7C+ML+%7C+IoT+%7C+Flutter+%7C+Cloud;🌏+From+Kerala+—+Shipping+AI+to+the+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=800&lines=%3E+Initializing+Darsan.exe+...+%5BOK%5D;%3E+Loading+AI+modules+...+4+prod+apps+shipped+%5BOK%5D;%3E+100%2B+real+users+in+the+wild+...+%5BLIVE%5D;%3E+Agentic+AI+%7C+LLMs+%7C+RAG+%7C+ML+%7C+Flutter+%5BACTIVE%5D;%3E+Mission%3A+Build+AI+that+works+in+the+real+world+%5BLOADING...%5D)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,152 +14,204 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darsan-i-s-4a6538255)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darsan-i-s-4a6538255)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-isdarsan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isdarsan@gmail.com)
+[![Gmail](https://img.shields.io/badge/◈_isdarsan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:isdarsan@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ISdarsan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISdarsan)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/ISdarsan)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=ISdarsan&label=Profile+Views&color=38bdae&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=ISdarsan&label=◈+SIGNAL+HITS&color=00ff88&style=for-the-badge&labelColor=000000)
 
 </div>
 
 ---
 
-## 🧬 The Stack Behind The Builder
+<div align="center">
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    > SYSTEM IDENTITY CARD                       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 #!/usr/bin/env python3
-# darsan.py
+# ╔═══════════════════════════════════════╗
+# ║         DARSAN.PY  v2.0.26           ║
+# ╚═══════════════════════════════════════╝
 
 class Darsan:
+    """
+    ██████╗  █████╗ ██████╗ ███████╗ █████╗ ███╗
+    ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗████╗
+    ██║  ██║███████║██████╔╝███████╗███████║██╔██╗
+    ██║  ██║██╔══██║██╔══██╗╚════██║██╔══██║██║╚██╗
+    ██████╔╝██║  ██║██║  ██║███████║██║  ██║██║ ╚█║
+    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚╝
+    """
     name        = "Darsan I S"
-    title       = "Data Scientist & AI Engineer"
-    location    = "Thiruvananthapuram, Kerala 🇮🇳"
-    deployed    = "4 production apps | 100+ real users"
+    role        = "Data Scientist & AI Engineer"
+    origin      = "Thiruvananthapuram, Kerala 🇮🇳"
+    ships       = "4 production apps — 100+ real users"
+    status      = "🟢 ONLINE — currently breaking limits"
 
-    ai_stack = [
-        "Data Science",  "Machine Learning",
-        "Agentic AI",    "LLMs & RAG",
-        "LSTM Models",   "AI Face Recognition",
-        "IoT + ML",      "Data Visualization",
+    core = {
+        "AI/ML"    : ["Data Science", "Machine Learning", "LSTM", "Face Recognition"],
+        "LLMs"     : ["RAG Pipelines", "LLM Agents", "Tool Calling", "Prompt Eng."],
+        "Dev"      : ["Flutter", "React.js", "Node.js", "Python", "Express"],
+        "Cloud"    : ["AWS", "Firebase", "Supabase", "MongoDB", "MySQL"],
+        "IoT"      : ["Sensor Integration", "Edge ML", "Real-time Pipelines"],
+    }
+
+    currently_leveling = [
+        "🤖  Agentic AI      ──  Multi-agent Systems, Tool Calling",
+        "🧠  AI Engineering  ──  RAG, VectorDBs, Fine-tuning",
+        "📊  Data Science    ──  Advanced Pipelines, Model Serving",
     ]
 
-    dev_stack = [
-        "Flutter", "React.js", "Python",
-        "Node.js", "Firebase", "AWS",
-        "Supabase", "MongoDB", "MySQL",
-    ]
-
-    currently_mastering = [
-        "🤖  Agentic AI  →  LLM Agents, Tool Calling",
-        "📊  Data Science  →  Advanced ML Pipelines",
-        "🧠  AI Engineering  →  RAG, Vector DBs",
-    ]
-
-    def mission(self):
+    def mission(self) -> str:
         return "Build AI that works in the real world. 🌍"
 
+    def __repr__(self):
+        return f"<Darsan | {self.role} | Shipping real AI since day 1>"
+
+# ─────────────────────────────────────────
 darsan = Darsan()
 print(darsan.mission())
 # → "Build AI that works in the real world. 🌍"
+# ─────────────────────────────────────────
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🤖 AI & Data Science Arsenal
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                   > TECH STACK MANIFEST                         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
 
-**🧠 AI / ML / Data Science**
+**`[ 🧠 AI · ML · DATA SCIENCE ]`**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF88)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4dabcf)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=e70488)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=00FF88)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627)
 
-**🤖 Agentic AI & LLMs** *(currently mastering)*
+**`[ 🤖 AGENTIC AI · LLMs ]`** &nbsp;◄ *current obsession*
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-38bdae?style=for-the-badge&logo=databricks&logoColor=white)
-![Agents](https://img.shields.io/badge/AI_Agents-bf91f3?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00FF88)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=ffffff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=databricks&logoColor=00FF88)
+![Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=bf91f3)
+![VectorDB](https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=pinecone&logoColor=00FF88)
 
-**📱 Full Stack & Mobile**
+**`[ 📱 FULL STACK · MOBILE ]`**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![React](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=6cc24a)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)
 
-**☁️ Cloud & Databases**
+**`[ ☁️ CLOUD · DATABASES ]`**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 </div>
 
 ---
 
-## 📊 GitHub Universe
-
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=ISdarsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdae&icon_color=bf91f3&text_color=c9d1d9&border_radius=12"/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                   > GITHUB TELEMETRY FEED                       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=ISdarsan&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=aaffcc&border_radius=0"/>
 &nbsp;&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISdarsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISdarsan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF88&text_color=aaffcc&langs_count=8&border_radius=0"/>
 
-</div>
+<img width="70%" src="https://streak-stats.demolab.com?user=ISdarsan&theme=dark&hide_border=true&background=000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=aaffcc&dates=555555&currStreakNum=ffffff&sideNums=ffffff&stroke=000000&border_radius=0"/>
 
-<div align="center">
-<img width="68%" src="https://streak-stats.demolab.com?user=ISdarsan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDAE&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=70A5FD&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12"/>
-</div>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ISdarsan&theme=high-contrast&bg_color=000000&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=true"/>
 
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ISdarsan&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true"/>
 </div>
 
 ---
 
-
-
-
-
-## 🌱 Currently Levelling Up
+<div align="center">
 
 ```
-🤖  Agentic AI      →  LLM Agents · Tool Calling · Multi-agent Systems
-📊  Data Science    →  Advanced Pipelines · Feature Engineering · Model Serving
-🧠  AI Engineering  →  RAG · Vector Databases · Prompt Engineering
-⚡  LLMs            →  Fine-tuning · Inference Optimization · Evaluation
-🔬  Research        →  AI Applications in Real-world Production Systems
+╔══════════════════════════════════════════════════════════════════╗
+║                  > ACTIVE SKILL TREE                            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```bash
+$ darsan --show-skills --format=verbose
+
+◈ Agentic AI       ████████████████████░░░  [LEVELING UP]  LLM Agents · Tool Calling · Multi-agent
+◈ Data Science     ██████████████████████░  [ADVANCED]     Pipelines · Feature Eng · Model Serving
+◈ AI Engineering   ████████████████████░░░  [LEVELING UP]  RAG · VectorDBs · Prompt Engineering
+◈ LLMs             ███████████████████░░░░  [ACTIVE]       Fine-tuning · Inference Opt · Eval
+◈ Flutter Dev      ██████████████████████░  [ADVANCED]     4 shipped apps · 100+ real users
+◈ Cloud / Infra    ████████████████████░░░  [ACTIVE]       AWS · Firebase · Supabase · Deploy
+◈ IoT + ML         ██████████████████░░░░░  [ACTIVE]       Edge ML · Sensor fusion · Real-time
+
+$ echo "All systems operational. Shipping to prod."
+→ All systems operational. Shipping to prod.
 ```
 
 ---
 
-## 📡 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darsan%20I%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darsan-i-s-4a6538255)
-[![Gmail](https://img.shields.io/badge/Gmail-isdarsan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isdarsan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ISdarsan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISdarsan)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    > OPEN CHANNEL                               ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-*Open to AI/ML roles, research collabs, and building the next big thing 🤖✨*
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88&labelColor=000000)](https://linkedin.com/in/darsan-i-s-4a6538255)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/◈_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF88&labelColor=000000)](mailto:isdarsan@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=000000)](https://github.com/ISdarsan)
+
+```
+> Open to: AI/ML roles · research collabs · building the next big thing
+> Status:  🟢 ONLINE — DMs open — no spam, only alpha
+```
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1b2e,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a00,100:000000&height=2&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a0d,70:002200,100:000000&height=120&section=footer&animation=twinkling&fontColor=00FF88" width="100%"/>
 </div>
