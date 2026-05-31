@@ -28,7 +28,9 @@
 
 ## 🧬 The Stack Behind The Builder
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+<img width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
 
 ```python
 #!/usr/bin/env python3
@@ -75,8 +77,6 @@ darsan = Darsan()
 print(darsan.mission())
 # → "Build AI that works in the real world. 🌍"
 ```
-
-<br clear="right"/>
 
 ---
 
