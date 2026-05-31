@@ -132,12 +132,6 @@ print(darsan.mission())
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ISdarsan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
-</div>
-
 ---
 
 ## 💼 Experience
