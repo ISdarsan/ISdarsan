@@ -133,9 +133,9 @@ print(darsan.mission())
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=ISdarsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdae&icon_color=bf91f3&text_color=c9d1d9&border_radius=12&cache_seconds=1800"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISdarsan&theme=tokyonight"/>
 &nbsp;&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISdarsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&text_color=c9d1d9&langs_count=8&border_radius=12&cache_seconds=1800"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ISdarsan&theme=tokyonight"/>
 
 </div>
 
