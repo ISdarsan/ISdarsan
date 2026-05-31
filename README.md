@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1b2a,55:1b2838,85:16213e,100:0f3460&height=220&section=header&text=Darsan%20I%20S&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🤖%20Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Agentic%20AI%20Builder&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1b2a,55:1b2838,85:16213e,100:0f3460&height=220&section=header&text=Darsan%20I%20S&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🤖%20Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Agentic%20AI%20Builder&descAlignY=62&descSize=17" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=38BDAE&center=true&vCenter=true&multiline=false&width=780&lines=🧠+Data+Scientist+%7C+AI+%7C+Agentic+AI+Engineer;🌐+Full+Stack+Dev+%7C+React+%7C+Node.js+%7C+Flutter;🤖+Building+Intelligent+Systems+that+Think+%26+Act;🚀+4+Production+Apps+deployed+for+100%2B+Real+Users;⚡+LLMs+%7C+RAG+%7C+ML+%7C+IoT+%7C+Flutter+%7C+Cloud;🌏+From+Kerala+—+Shipping+AI+to+the+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=38BDAE&center=true&vCenter=true&multiline=false&width=780&lines=🧠+Data+Scientist+%7C+AI+%7C+Agentic+AI+Engineer;🤖+Building+Intelligent+Systems+that+Think+%26+Act;🚀+4+Production+Apps+deployed+for+100%2B+Real+Users;⚡+LLMs+%7C+RAG+%7C+ML+%7C+IoT+%7C+Flutter+%7C+Cloud;🌏+From+Kerala+—+Shipping+AI+to+the+World)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,9 +28,7 @@
 
 ## 🧬 The Stack Behind The Builder
 
-<div align="center">
-<img width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</div>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 #!/usr/bin/env python3
@@ -38,7 +36,7 @@
 
 class Darsan:
     name        = "Darsan I S"
-    title       = "Data Scientist | AI Engineer | Full Stack Developer"
+    title       = "Data Scientist & AI Engineer"
     location    = "Thiruvananthapuram, Kerala 🇮🇳"
     deployed    = "4 production apps | 100+ real users"
 
@@ -47,13 +45,6 @@ class Darsan:
         "Agentic AI",    "LLMs & RAG",
         "LSTM Models",   "AI Face Recognition",
         "IoT + ML",      "Data Visualization",
-    ]
-
-    fullstack_stack = [
-        "React.js",  "Node.js",
-        "Express",   "REST APIs",
-        "HTML/CSS",  "JavaScript",
-        "Flutter",   "Dart",
     ]
 
     dev_stack = [
@@ -68,8 +59,6 @@ class Darsan:
         "🧠  AI Engineering  →  RAG, Vector DBs",
     ]
 
-    superpower = "Ship full products solo — UI → API → Model → Deploy 🚀"
-
     def mission(self):
         return "Build AI that works in the real world. 🌍"
 
@@ -77,6 +66,8 @@ darsan = Darsan()
 print(darsan.mission())
 # → "Build AI that works in the real world. 🌍"
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -102,20 +93,12 @@ print(darsan.mission())
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-38bdae?style=for-the-badge&logo=databricks&logoColor=white)
 ![Agents](https://img.shields.io/badge/AI_Agents-bf91f3?style=for-the-badge&logo=openai&logoColor=white)
 
-**🌐 Full Stack Development**
+**📱 Full Stack & Mobile**
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-38bdae?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**📱 Mobile Development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **☁️ Cloud & Databases**
 
@@ -149,6 +132,10 @@ print(darsan.mission())
 
 ---
 
+
+
+
+
 ## 🌱 Currently Levelling Up
 
 ```
@@ -169,7 +156,7 @@ print(darsan.mission())
 [![Gmail](https://img.shields.io/badge/Gmail-isdarsan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isdarsan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ISdarsan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISdarsan)
 
-*Open to AI/ML roles, Full Stack Engineering, research collabs, and building the next big thing 🤖✨*
+*Open to AI/ML roles, research collabs, and building the next big thing 🤖✨*
 
 </div>
 
