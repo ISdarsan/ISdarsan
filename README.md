@@ -28,7 +28,9 @@
 
 ## 🧬 The Stack Behind The Builder
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+<img width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
 
 ```python
 #!/usr/bin/env python3
@@ -75,8 +77,6 @@ darsan = Darsan()
 print(darsan.mission())
 # → "Build AI that works in the real world. 🌍"
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -133,9 +133,9 @@ print(darsan.mission())
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=ISdarsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdae&icon_color=bf91f3&text_color=c9d1d9&border_radius=12"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=ISdarsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdae&icon_color=bf91f3&text_color=c9d1d9&border_radius=12&cache_seconds=1800"/>
 &nbsp;&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISdarsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISdarsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&text_color=c9d1d9&langs_count=8&border_radius=12&cache_seconds=1800"/>
 
 </div>
 
