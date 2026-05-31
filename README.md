@@ -298,19 +298,6 @@ print(darsan.motto())
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 | Institution | Year | Score |
-|----|-------------|------|-------|
-| B.Tech. Computer Science & Engineering | Mar Baselios College of Engineering and Technology | 2022 – 2026 | — |
-| Class XII — KBHSE | St. Mary's HSS Pattom, Thiruvananthapuram | 2022 | **87.08%** |
-| Class X — CBSE | Navajeevan Bethany Vidyalaya, Thiruvananthapuram | 2020 | **76.80%** |
-
-</div>
-
----
 
 ## 🌱 Currently Levelling Up
 
